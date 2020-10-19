@@ -1,0 +1,68 @@
+{
+	"pattrstorage" : 	{
+		"name" : "mapper",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Amp LFO" : [ 0.0 ],
+					"Body Size" : [ 0.566929 ],
+					"Delay Feedback" : [ 0.115748 ],
+					"Delay Time" : [ 6.435136 ],
+					"Distortion" : [ 0.4 ],
+					"Dry/Wet" : [ 0.0 ],
+					"FS" : [ 2048.0 ],
+					"Feedback" : [ 0.4 ],
+					"Filter Ratio" : [ -0.399999 ],
+					"Fq Modulation" : [ 0.01 ],
+					"Load" : [ 0.0 ],
+					"Low-Pass Filter" : [ 10000.0 ],
+					"Pressure" : [ 49.18 ],
+					"Rate1" : [ 0.0 ],
+					"Rate2" : [ 6.017 ],
+					"Save" : [ 0.0 ],
+					"TimeMode" : [ 1.0 ],
+					"VCO-2 - FQ 2" : [ 204.465836 ],
+					"clearall" : [ 0.0 ],
+					"gswitch2" : [ 1 ],
+					"kslider" : [ 36 ],
+					"live.dial" : [ 0.070866 ],
+					"live.dial[10]" : [ 0.7 ],
+					"live.dial[14]" : [ 349.22821 ],
+					"live.dial[19]" : [ 0.121212 ],
+					"live.dial[1]" : [ 349.22821 ],
+					"live.dial[20]" : [ 1091.338379 ],
+					"live.dial[2]" : [ 0.7 ],
+					"live.dial[3]" : [ 0.5 ],
+					"live.dial[4]" : [ 0.12 ],
+					"live.dial[5]" : [ 0.0 ],
+					"live.gain~[2]" : [ -10.0 ],
+					"live.menu" : [ 0.0 ],
+					"live.menu[1]" : [ 2.0 ],
+					"live.menu[3]" : [ 0.0 ],
+					"live.tab[1]" : [ 0.0 ],
+					"live.toggle" : [ 1.0 ],
+					"number" : [ 0.0 ],
+					"number[1]" : [ 1091.338379 ],
+					"number[2]" : [ 349.22821 ],
+					"number[3]" : [ 0.003563 ],
+					"number[4]" : [ 349.22821 ],
+					"number[5]" : [ 204.394974 ],
+					"number[6]" : [ 0.32 ],
+					"number[7]" : [ 0.0 ],
+					"number[8]" : [ 204.465836 ],
+					"textbutton" : [ -1 ],
+					"toggle" : [ 1 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 1 ],
+					"toggle[3]" : [ 1 ],
+					"toggle[4]" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

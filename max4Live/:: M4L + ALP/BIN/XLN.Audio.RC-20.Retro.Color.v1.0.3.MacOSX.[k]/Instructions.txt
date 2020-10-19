@@ -1,0 +1,22 @@
+XLN.Audio.RC-20.Retro.Color.v1.0.3-MAC
+
+Before installing XLN releases, uninstall everything from XLN.
+
+1. Install “RC-20 Retro Color.dmg”
+
+2. Copy k’ed files from “[K]” folder to:
+
+RC-20 Retro Color.component > /Library/Audio/Plug-Ins/Components
+RC-20 Retro Color.vst > /Library/Audio/Plug-Ins/VST
+
+3. Copy “XLN Online Installer” folder to:
+
+/Library/Application Support/XLN Audio
+
+4. Mount “RC-20 Retro Color App & Sound Data.dmg” and copy resources:
+
+“RC-20 Retro Color” folder > /Library/Application Support/XLN Audio
+
+5. Enjoy!
+
+IMPORTANT: You cannot install alongside legit version.
